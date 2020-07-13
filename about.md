@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Alisina Bahadori, I'm a computer geek.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a DevOps Engineer and I love backend developement. I mainly focus on Elixir/OTP because my
+passion has always been designing fault tollerant, scalable distributed systems, and OTP is just
+made for that.
+
+Other than that, I love experimenting with new software and technologies. Guess you may call me
+a technophile :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alisina.bm@gmail.com](mailto:alisina.bm@gmail.com)

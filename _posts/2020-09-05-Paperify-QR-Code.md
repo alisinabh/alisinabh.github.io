@@ -5,12 +5,12 @@ title: Paperify - Backup your files on paper using QR Code
 
 Paperify: How to backup data using QR-Code and print them on paper?
 
-> **TL;DR:**  
-> You can use [github.com/alisinabh/paperify](https://github.com/alisinabh/paperify) to convert your files to multi page QR Codes, print them and then restore them whenever you want to.
-
 [Read on Medium](https://medium.com/@alisina.bm/paperify-how-to-backup-data-using-qr-code-and-print-them-36d12eaed8fe)
 
 If you’re they type of person who always thinks about apocalyptic destruction like I am, One of the things that scares me a lot is loosing all my digital data. Private Keys, Password Manager data, Cryptocurrency wallet seeds/private keys. These are all things that I prefer not to store anywhere on the else than my own computer.
+
+> **TL;DR:**  
+> You can use [github.com/alisinabh/paperify](https://github.com/alisinabh/paperify) to convert your files to multi page QR Codes, print them and then restore them whenever you want to.
 
 I know it may sound crazy but lets say there were a powerful EMP Gun (Electro Magnetic Pulse) has gone off in your neighborhood and all your data on your SSD, USB Disks and other means of digital storage is lost. What can you do to prevent it?
 

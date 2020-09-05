@@ -6,7 +6,7 @@
 name: Alisina Bahadori
 
 # Short bio or description (displayed in the header)
-description: A computer software engineer hassles in life
+description: Geek, Software Engineer. I write about anything that I like here.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/alisinabh/alisinabh.github.io/master/images/me.jpeg
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/alisinabh/alisinabh.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: alisina.bm@gmail.com
   facebook:
   flickr:
   github: alisinabh
@@ -34,14 +34,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: alisinabh-com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://alisinabh.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
